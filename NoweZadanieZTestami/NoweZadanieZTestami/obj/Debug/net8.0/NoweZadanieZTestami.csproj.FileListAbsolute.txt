@@ -1,0 +1,14 @@
+C:\Users\Właściciel\source\repos\NoweZadanieZTestami\NoweZadanieZTestami\obj\Debug\net8.0\NoweZadanieZTestami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Właściciel\source\repos\NoweZadanieZTestami\NoweZadanieZTestami\obj\Debug\net8.0\NoweZadanieZTestami.AssemblyInfoInputs.cache
+C:\Users\Właściciel\source\repos\NoweZadanieZTestami\NoweZadanieZTestami\obj\Debug\net8.0\NoweZadanieZTestami.AssemblyInfo.cs
+C:\Users\Właściciel\source\repos\NoweZadanieZTestami\NoweZadanieZTestami\obj\Debug\net8.0\NoweZadanieZTestami.csproj.CoreCompileInputs.cache
+C:\Users\Właściciel\source\repos\NoweZadanieZTestami\NoweZadanieZTestami\bin\Debug\net8.0\NoweZadanieZTestami.exe
+C:\Users\Właściciel\source\repos\NoweZadanieZTestami\NoweZadanieZTestami\bin\Debug\net8.0\NoweZadanieZTestami.deps.json
+C:\Users\Właściciel\source\repos\NoweZadanieZTestami\NoweZadanieZTestami\bin\Debug\net8.0\NoweZadanieZTestami.runtimeconfig.json
+C:\Users\Właściciel\source\repos\NoweZadanieZTestami\NoweZadanieZTestami\bin\Debug\net8.0\NoweZadanieZTestami.dll
+C:\Users\Właściciel\source\repos\NoweZadanieZTestami\NoweZadanieZTestami\bin\Debug\net8.0\NoweZadanieZTestami.pdb
+C:\Users\Właściciel\source\repos\NoweZadanieZTestami\NoweZadanieZTestami\obj\Debug\net8.0\NoweZadanieZTestami.dll
+C:\Users\Właściciel\source\repos\NoweZadanieZTestami\NoweZadanieZTestami\obj\Debug\net8.0\refint\NoweZadanieZTestami.dll
+C:\Users\Właściciel\source\repos\NoweZadanieZTestami\NoweZadanieZTestami\obj\Debug\net8.0\NoweZadanieZTestami.pdb
+C:\Users\Właściciel\source\repos\NoweZadanieZTestami\NoweZadanieZTestami\obj\Debug\net8.0\NoweZadanieZTestami.genruntimeconfig.cache
+C:\Users\Właściciel\source\repos\NoweZadanieZTestami\NoweZadanieZTestami\obj\Debug\net8.0\ref\NoweZadanieZTestami.dll
